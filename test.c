@@ -34,6 +34,8 @@ int main() {
     scanf("%d", &expected_NOT);
     printf("!(A || B) is %s\n", !(A || B) == expected_NOT ? "correct" : "incorrect");
 
+    printf("this not something that i remember writing");
+
     return 0;
 }
 
